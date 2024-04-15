@@ -31,7 +31,7 @@ Trapézio
 
 ![image](https://github.com/Cdszinn/Aula-4/assets/144970032/077c125a-e38d-4cde-a58a-8ab409c739cc)
 
-
+$A=\frac{(B+b).h}{2}$
 
 Círculo 
 
