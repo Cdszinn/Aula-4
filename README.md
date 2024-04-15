@@ -36,3 +36,5 @@ Trapézio
 Círculo 
 
 ![image](https://github.com/Cdszinn/Aula-4/assets/144970032/5f1ec4dc-3b9e-4637-a8fb-d2d9b18474ce)
+
+$A=\pi.r^{2}$
