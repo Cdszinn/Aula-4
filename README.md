@@ -58,4 +58,4 @@ Fórmula de bhaskara
 
 Equação de 2 grau
 
-${ax²+bx+c}=0
+${ax²+bx+c}=0$
