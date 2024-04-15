@@ -59,3 +59,7 @@ Fórmula de bhaskara
 Equação de 2 grau
 
 ${ax²+bx+c}=0$
+
+Fórmula de bhaskara
+
+$x=\frac{-b±}\sqrt{b²-4.a.c}{2.a}$
