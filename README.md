@@ -19,7 +19,7 @@ Losango
 
 ![image](https://github.com/Cdszinn/Aula-4/assets/144970032/05d75dc2-2ecf-4e25-8e59-454e4a553c09)
 
-
+$A=\frac{b.d}{2}$
 
 Retângulo 
 
