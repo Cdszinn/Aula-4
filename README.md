@@ -6,10 +6,13 @@
 
 $A=\frac{b.h}{2}$  Sendo 
 
+
+
 Quadrado
 
 ![image](https://github.com/Cdszinn/Aula-4/assets/144970032/9429a7d9-0d69-4fd6-8c2b-f8cecfb5aa63)
 
+$A=L^{2}$
 
 
 Losango 
