@@ -15,9 +15,14 @@ losango
 ![](![image](https://github.com/Cdszinn/Aula-4/assets/144970032/05d75dc2-2ecf-4e25-8e59-454e4a553c09)
 
 
-
+retângulo 
 
 ![](![image](https://github.com/Cdszinn/Aula-4/assets/144970032/b7fcebe5-94fe-4045-a321-5478a777ec12)
+
+
+
+
+![image](https://github.com/Cdszinn/Aula-4/assets/144970032/077c125a-e38d-4cde-a58a-8ab409c739cc)
 
 
 
