@@ -53,3 +53,9 @@ $A=\pi.r^{2}$  Sendo
 A:area
 $\pi$= Constante Pi(3,14)
 r:raio
+
+Fórmula de bhaskara
+
+Equação de 2 grau
+
+${ax²+bx+c}=0
