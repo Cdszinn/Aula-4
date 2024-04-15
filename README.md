@@ -25,7 +25,7 @@ Retângulo
 
 ![image](https://github.com/Cdszinn/Aula-4/assets/144970032/b7fcebe5-94fe-4045-a321-5478a777ec12)
 
-
+$A={b.h}$
 
 Trapézio 
 
