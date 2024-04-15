@@ -66,4 +66,4 @@ $x=\frac{-b±\sqrt{b²-4.a.c}}{2.a}$
 
 discriminate Delta
 
-$
+$\Delta =
