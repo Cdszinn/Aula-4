@@ -62,4 +62,4 @@ ${ax²+bx+c}=0$
 
 Fórmula de bhaskara
 
-$x=\frac{-b±\sqrt{b²-4.a.c}{2.a}$
+$x=\frac{-b±\sqrt{b²-4.a.c}}{2.a}$
